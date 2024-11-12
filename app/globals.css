@@ -27,6 +27,15 @@ body {
   width: 100%;
   height: 100vh;
 }
+.bg-img-tes {
+  background-image: url("../public/images/Ellipse 15.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
 .layer{
   background-color: rgba(0, 0, 0, 0.2);
   width: 100%;

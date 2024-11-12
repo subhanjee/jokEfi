@@ -22,7 +22,7 @@ const teamMembers = [
 
 export default function TeamSection() {
   return (
-    <div className="flex flex-col items-center py-12">
+    <div className="min-h-screen flex flex-col items-center py-12 bg-img-tes">
       {/* Section Title */}
       <h2 className="text-3xl font-semibold mb-8">Team</h2>
 

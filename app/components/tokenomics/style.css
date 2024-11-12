@@ -182,17 +182,7 @@
   }
 }
 @media (max-width: 1440px) {
-  /* .div-tokn-percent {
-    background-color: white;
-    border-width: 2px;
-    border-style: solid;
-    border-image: linear-gradient(180deg, #ffd1b7 0%, #bbade4 100%);
-    border-image-slice: 1;
-    border-radius: 1rem !important;
-    width: 45rem;
-    height: auto;
-    padding: 2rem;
-  } */
+
   .main-token {
     margin-bottom: 10rem;
     margin-top: 10rem;
@@ -303,7 +293,7 @@
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   /* .div-tokn-percent {
     background-color: white;
     border-width: 2px;
@@ -343,6 +333,37 @@
     width: 80vw;
     height: 200vh;
     left: none;
+  }
+  .pink-div {
+    background: #ffd1b7;
+    width: 7rem;
+    height: 8rem;
+    margin-bottom: 1rem;
+    margin-top: -6rem;
+  }
+  .pink1-div {
+    background: #e6c4c8;
+    width: 7rem;
+    height: 4rem;
+    margin-bottom: 1rem;
+  }
+  .pink2-div {
+    background: #d5bbd4;
+    width: 7rem;
+    height: 4rem;
+    margin-bottom: 1rem;
+  }
+  .pink3-div {
+    background: #c7b4dd;
+    width: 7rem;
+    height: 3rem;
+    margin-bottom: 0.7rem;
+  }
+  .pink4-div {
+    background: #bcaee4;
+    width: 7rem;
+    height: 2rem;
+    margin-bottom: 0.7rem;
   }
 }
 @media (max-width: 425px) {
