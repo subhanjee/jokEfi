@@ -4,7 +4,7 @@ import joke1 from "../../../public/images/Rectangle 24.png";
 import joke2 from "../../../public/images/Rectangle 25.png";
 import joker from "../../../public/images/image 8.png";
 import Image from "next/image";
-const JokeMemeUI = () => {
+const HeroSection = () => {
   return (
     <div className="min-h-screen flex flex-col justify-center items-center   p-4">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
@@ -21,4 +21,4 @@ const JokeMemeUI = () => {
   );
 };
 
-export default JokeMemeUI;
+export default HeroSection;
