@@ -705,9 +705,7 @@
   .pos-vec-road {
     display: none;
   }
-  /* .pos-vec-road2 {
-    display: none;
-  } */
+ 
   .div-pos-road {
     background: linear-gradient(180deg, #ffd1b7 0%, #bbade4 100%);
     box-shadow: none;

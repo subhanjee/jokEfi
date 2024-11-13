@@ -1,0 +1,1509 @@
+.main-jokefi {
+  padding: 80px 0px;
+}
+.center-jokee-col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.center-jokee-col1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.margin-hero {
+  margin-top: 18rem;
+}
+.siz-joke {
+  height: 7rem;
+  margin-top: -6.5rem;
+}
+.siz-joke1 {
+  height: 13rem;
+  margin-left: 1.5rem;
+}
+.siz-joke2 {
+  height: 5.5rem;
+  margin-left: -1rem;
+  margin-top: -7rem;
+}
+.div-timer {
+  background-color: white;
+  box-shadow: 0px 11px 19px 0px #00000073;
+  width: 42rem;
+  /* height: 31.938rem; */
+  border-radius: 2rem;
+  padding: 1rem;
+}
+.progress-bar {
+  width: 18rem !important;
+}
+.ant-progress-inner {
+  background-color: black !important;
+  height: 1.8rem !important;
+  width: 34rem !important;
+  box-shadow: 0px 11px 19px 0px #00ff66 !important;
+}
+.ant-progress .ant-progress-bg {
+  height: 1.8rem !important;
+  box-shadow: 0px 11px 19px 0px #00ff66 !important;
+}
+.ant-progress-text {
+  display: none !important;
+}
+.center-proo {
+  text-align: center;
+  margin-top: 4rem;
+}
+.pro-pos {
+  position: absolute;
+  margin-top: -3.7rem;
+  margin-left: 1rem;
+  z-index: 1;
+}
+.usdt-hero-text {
+  font-family: "Audiowide" !important;
+  font-style: normal !important;
+  font-size: 1.5rem;
+  color: black;
+  text-align: center;
+}
+.coin-div {
+  width: 8rem;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  border-radius: 0.5rem;
+  color: white;
+  font-family: "Montserrat" !important;
+  font-style: normal !important;
+  font-size: 1.2rem;
+}
+.main-coin-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main-coin-div1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 28rem;
+}
+.input-hero {
+  width: 21rem;
+  background-color: black !important;
+  color: white !important;
+  font-family: "Audiowide" !important;
+  font-style: normal !important;
+  margin-top: -1rem;
+  margin-bottom: -2rem !important;
+}
+.text-heroeth {
+  font-family: "Audiowide" !important;
+  font-style: normal !important;
+  color: black;
+  font-size: 1rem;
+}
+.hero-btn {
+  background-color: black;
+  width: 10rem;
+  padding: 0.5rem;
+  border-radius: 0.3rem;
+  border: solid 1px black;
+  color: white;
+  font-family: "Montserrat" !important;
+  font-style: normal !important;
+  font-size: 1.1rem;
+}
+.hero-btn1 {
+  width: 10rem;
+  padding: 0.5rem;
+  border-radius: 0.3rem;
+  border: solid 1px black;
+  color: black;
+  font-family: "Montserrat" !important;
+  font-style: normal !important;
+  font-size: 1.1rem;
+  background-color: white;
+}
+.flex-btn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 21rem;
+}
+.how-text-hero {
+  font-size: 1.1rem;
+  font-family: "Montserrat" !important;
+  font-style: normal !important;
+  text-align: center;
+}
+.flex-form-img {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.size-img-herrr {
+  margin-top: -1rem;
+  height: 20rem;
+}
+.cloud-img {
+  position: absolute;
+  z-index: -1;
+  height: 15rem;
+  margin-left: 52rem;
+  margin-top: -20rem;
+}
+.imm-pos {
+  position: absolute;
+  z-index: -1;
+  margin-left: -13rem;
+  margin-top: -10rem;
+  height: 14rem;
+}
+.imm-pos1 {
+  position: absolute;
+  z-index: 1;
+  margin-left: 25rem;
+  margin-top: -11rem;
+  height: 12rem;
+}
+.imm-pos2 {
+  position: absolute;
+  z-index: 1;
+  margin-top: 11rem;
+  height: 18rem;
+  margin-left: -12rem;
+}
+.imm-pos3 {
+  position: absolute;
+  z-index: 1;
+  margin-top: 11rem;
+  height: 17rem;
+  margin-left: 14rem;
+}
+.imm-pos4 {
+  position: absolute;
+  z-index: -1;
+  margin-top: 9rem;
+  height: 17rem;
+  margin-left: 36rem;
+}
+.imm-pos5 {
+  position: absolute;
+  z-index: -1;
+  margin-top: 25rem;
+  height: 12rem;
+  margin-left: 42rem;
+}
+.imm-pos6 {
+  position: absolute;
+  z-index: -1;
+  margin-top: 2rem;
+  height: 14rem;
+  margin-left: -2rem;
+}
+.imm-pos7 {
+  position: absolute;
+  z-index: -1;
+  margin-top: 2rem;
+  height: 14rem;
+  margin-left: 30rem;
+}
+.imm-pos8 {
+  position: absolute;
+  z-index: -1;
+  margin-top: -22rem;
+  height: 14rem;
+  margin-left: -15rem;
+}
+.imm-pos9 {
+  position: absolute;
+  z-index: -1;
+  margin-top: -22rem;
+  height: 9rem;
+  margin-left: 5rem;
+}
+.imm-pos10 {
+  position: absolute;
+  z-index: -1;
+  margin-top: -20rem;
+  height: 11rem;
+  margin-left: 17rem;
+}
+.imm-pos11 {
+  position: absolute;
+  z-index: -1;
+  margin-top: -7rem;
+  height: 14rem;
+  margin-left: 4rem;
+}
+.imm-pos12 {
+  position: absolute;
+  z-index: -1;
+  margin-top: -7rem;
+  height: 14rem;
+  margin-left: 35rem;
+}
+.imm-pos13 {
+  position: absolute;
+  z-index: -1;
+  margin-top: -39rem;
+  width: 35vw;
+  height: 60vh;
+  margin-left: -22rem;
+}
+.imm-pos14 {
+  position: absolute;
+  z-index: -1;
+  margin-top: 1rem;
+  width: 40vw;
+  height: 65vh;
+  margin-left: -22rem;
+}
+.imm-pos15 {
+  position: absolute;
+  z-index: -1;
+  margin-top: 5rem;
+  width: 40vw;
+  height: 65vh;
+  margin-left: -7rem;
+}
+.imm-pos16 {
+  position: absolute;
+  z-index: -1;
+  margin-top: 6rem;
+  width: 40vw;
+  height: 65vh;
+  margin-left: 5rem;
+  border-radius: 50%;
+}
+.pro-pos12 {
+  display: none;
+}
+.size-img-herrrmbl {
+  display: none;
+}
+@media (max-width: 2560px) {
+  .cloud-img {
+    position: absolute;
+    z-index: -1;
+    height: 15rem;
+    margin-left: 110rem;
+    margin-top: -20rem;
+  }
+  .div-timer {
+    background-color: white;
+    box-shadow: 0px 11px 19px 0px #00000073;
+    width: 80rem;
+    height: auto;
+    border-radius: 2rem;
+    padding: 2rem;
+  }
+  .progress-bar {
+    width: 30rem !important;
+  }
+  .ant-progress-inner {
+    background-color: black !important;
+    height: 4rem !important;
+    width: 55rem !important;
+    box-shadow: 0px 11px 19px 0px #00ff66 !important;
+  }
+  .ant-progress .ant-progress-bg {
+    height: 4rem !important;
+    box-shadow: 0px 11px 19px 0px #00ff66 !important;
+  }
+  .ant-progress-text {
+    display: none !important;
+  }
+  .usdt-hero-text {
+    font-family: "Audiowide" !important;
+    font-style: normal !important;
+    font-size: 3.2rem;
+    color: black;
+    text-align: center;
+  }
+  .coin-div {
+    width: 16rem;
+    height: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    border-radius: 0.5rem;
+    color: white;
+    font-family: "Montserrat" !important;
+    font-style: normal !important;
+    font-size: 2.2rem;
+  }
+  .main-coin-div1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50rem;
+  }
+  .pro-pos {
+    position: absolute;
+    margin-top: -7.5rem;
+    margin-left: 6rem;
+    z-index: 1;
+    height: 12rem;
+  }
+  .input-hero {
+    width: 40rem;
+    background-color: black !important;
+    color: white !important;
+    font-family: "Audiowide" !important;
+    font-style: normal !important;
+    margin-top: -1rem;
+    margin-bottom: -2rem !important;
+    height: 5rem;
+    font-size: 2rem !important;
+  }
+  .text-heroeth {
+    font-family: "Audiowide" !important;
+    font-style: normal !important;
+    color: black;
+    font-size: 3rem;
+  }
+  .hero-btn {
+    background-color: black;
+    width: 18rem;
+    padding: 1rem;
+    border-radius: 0.3rem;
+    border: solid 1px black;
+    color: white;
+    font-family: "Montserrat" !important;
+    font-style: normal !important;
+    font-size: 2rem;
+  }
+  .hero-btn1 {
+    width: 18rem;
+    padding: 1rem;
+    border-radius: 0.3rem;
+    border: solid 1px black;
+    color: black;
+    font-family: "Montserrat" !important;
+    font-style: normal !important;
+    font-size: 2rem;
+    background-color: white;
+  }
+  .flex-btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 40rem;
+  }
+  .how-text-hero {
+    font-size: 3rem;
+    font-family: "Montserrat" !important;
+    font-style: normal !important;
+    text-align: center;
+    font-weight: bold;
+  }
+  .siz-joke {
+    height: 15rem;
+    margin-top: -15rem;
+  }
+  .siz-joke1 {
+    height: 27rem;
+    margin-left: 1.5rem;
+  }
+  .siz-joke2 {
+    height: 12rem;
+    margin-left: -1rem;
+    margin-top: -14.5rem;
+  }
+  .imm-pos4 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 12rem;
+    height: 30rem;
+    margin-left: 70rem;
+  }
+  .imm-pos5 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 35rem;
+    height: 25rem;
+    margin-left: 80rem;
+  }
+  .imm-pos7 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 2rem;
+    height: 25rem;
+    margin-left: 65rem;
+  }
+  .imm-pos6 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 2rem;
+    height: 25rem;
+    margin-left: -2rem;
+  }
+  .main-jokefi {
+    padding: 60px 0px;
+    margin-bottom: 15rem;
+  }
+  .imm-pos12 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -11rem;
+    height: 25rem;
+    margin-left: 65rem;
+  }
+  .imm-pos11 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -14rem;
+    height: 25rem;
+    margin-left: 4rem;
+  }
+  .imm-pos3 {
+    position: absolute;
+    z-index: 1;
+    margin-top: 11rem;
+    height: 30rem;
+    margin-left: 40rem;
+  }
+  .imm-pos2 {
+    position: absolute;
+    z-index: 1;
+    margin-top: 11rem;
+    height: 30rem;
+    margin-left: -12rem;
+  }
+  .imm-pos1 {
+    position: absolute;
+    z-index: 1;
+    margin-left: 52rem;
+    margin-top: -22rem;
+    height: 25rem;
+  }
+  .margin-hero {
+    margin-top: 28rem;
+  }
+  .imm-pos10 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -32rem;
+    height: 18rem;
+    margin-left: 32rem;
+  }
+  .imm-pos9 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -32rem;
+    height: 15rem;
+    margin-left: 7rem;
+  }
+  .imm-pos8 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -34rem;
+    height: 22rem;
+    margin-left: -22rem;
+  }
+  .imm-pos {
+    position: absolute;
+    z-index: -1;
+    margin-left: -13rem;
+    margin-top: -15rem;
+    height: 20rem;
+  }
+  .imm-pos15 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 5rem;
+    width: 60vw;
+    height: 80vh;
+    margin-left: -7rem;
+  }
+  .imm-pos16 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 6rem;
+    width: 45vw;
+    height: 80vh;
+    margin-left: 5rem;
+    border-radius: 0%;
+  }
+  .imm-pos13 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -45rem;
+    width: 38vw;
+    height: 50vh;
+    margin-left: -30rem;
+  }
+}
+
+@media (max-width: 1920px) {
+  .cloud-img {
+    position: absolute;
+    z-index: -1;
+    height: 15rem;
+    margin-left: 110rem;
+    margin-top: -20rem;
+  }
+  .div-timer {
+    background-color: white;
+    box-shadow: 0px 11px 19px 0px #00000073;
+    width: 55rem;
+    height: auto;
+    border-radius: 2rem;
+    padding: 2.5rem;
+  }
+  .progress-bar {
+    width: 25rem !important;
+  }
+  .ant-progress-inner {
+    background-color: black !important;
+    height: 2rem !important;
+    width: 45rem !important;
+    box-shadow: 0px 11px 19px 0px #00ff66 !important;
+  }
+  .ant-progress .ant-progress-bg {
+    height: 2rem !important;
+    box-shadow: 0px 11px 19px 0px #00ff66 !important;
+  }
+  .ant-progress-text {
+    display: none !important;
+  }
+  .usdt-hero-text {
+    font-family: "Audiowide" !important;
+    font-style: normal !important;
+    font-size: 2.5rem;
+    color: black;
+    text-align: center;
+  }
+  .coin-div {
+    width: 10rem;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    border-radius: 0.5rem;
+    color: white;
+    font-family: "Montserrat" !important;
+    font-style: normal !important;
+    font-size: 2rem;
+  }
+  .main-coin-div1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 40rem;
+  }
+  .pro-pos {
+    position: absolute;
+    margin-top: -7.5rem;
+    margin-left: 0rem;
+    z-index: 1;
+    height: 12rem;
+  }
+  .input-hero {
+    width: 30rem;
+    background-color: black !important;
+    color: white !important;
+    font-family: "Audiowide" !important;
+    font-style: normal !important;
+    margin-top: -1rem;
+    margin-bottom: -2rem !important;
+    height: 4rem;
+    font-size: 2rem !important;
+  }
+  .text-heroeth {
+    font-family: "Audiowide" !important;
+    font-style: normal !important;
+    color: black;
+    font-size: 2.5rem;
+  }
+  .hero-btn {
+    background-color: black;
+    width: 14rem;
+    padding: 1rem;
+    border-radius: 0.3rem;
+    border: solid 1px black;
+    color: white;
+    font-family: "Montserrat" !important;
+    font-style: normal !important;
+    font-size: 1.5rem;
+  }
+  .hero-btn1 {
+    width: 14rem;
+    padding: 1rem;
+    border-radius: 0.3rem;
+    border: solid 1px black;
+    color: black;
+    font-family: "Montserrat" !important;
+    font-style: normal !important;
+    font-size: 1.5rem;
+    background-color: white;
+  }
+  .flex-btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 30rem;
+  }
+  .how-text-hero {
+    font-size: 2rem;
+    font-family: "Montserrat" !important;
+    font-style: normal !important;
+    text-align: center;
+    font-weight: bold;
+  }
+  .siz-joke {
+    height: 10rem;
+    margin-top: -10rem;
+  }
+  .siz-joke1 {
+    height: 18rem;
+    margin-left: 1.5rem;
+  }
+  .siz-joke2 {
+    height: 7rem;
+    margin-left: 1rem;
+    margin-top: -10.5rem;
+  }
+  .imm-pos4 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 12rem;
+    height: 20rem;
+    margin-left: 48rem;
+  }
+  .imm-pos5 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 35rem;
+    height: 18rem;
+    margin-left: 55rem;
+  }
+  .imm-pos7 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 2rem;
+    height: 18rem;
+    margin-left: 48rem;
+  }
+  .imm-pos6 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 2rem;
+    height: 18rem;
+    margin-left: -2rem;
+  }
+  .main-jokefi {
+    padding: 60px 0px;
+    margin-bottom: 15rem;
+  }
+  .imm-pos12 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -9rem;
+    height: 17rem;
+    margin-left: 48rem;
+  }
+  .imm-pos11 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -10rem;
+    height: 19rem;
+    margin-left: 4rem;
+  }
+  .imm-pos3 {
+    position: absolute;
+    z-index: 1;
+    margin-top: 11rem;
+    height: 20rem;
+    margin-left: 30rem;
+  }
+  .imm-pos2 {
+    position: absolute;
+    z-index: 1;
+    margin-top: 11rem;
+    height: 22rem;
+    margin-left: -12rem;
+  }
+  .imm-pos1 {
+    position: absolute;
+    z-index: 1;
+    margin-left: 42rem;
+    margin-top: -15rem;
+    height: 17rem;
+  }
+  .margin-hero {
+    margin-top: 26rem;
+  }
+  .imm-pos10 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -25rem;
+    height: 16rem;
+    margin-left: 26rem;
+  }
+  .imm-pos9 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -26rem;
+    height: 12rem;
+    margin-left: 8rem;
+  }
+  .imm-pos8 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -30rem;
+    height: 18rem;
+    margin-left: -20rem;
+  }
+  .imm-pos {
+    position: absolute;
+    z-index: -1;
+    margin-left: -14rem;
+    margin-top: -15rem;
+    height: 18rem;
+  }
+  .imm-pos15 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 5rem;
+    width: 60vw;
+    height: 80vh;
+    margin-left: -7rem;
+  }
+  .imm-pos16 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 6rem;
+    width: 45vw;
+    height: 80vh;
+    margin-left: 5rem;
+    border-radius: 0%;
+  }
+  .imm-pos13 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -45rem;
+    width: 38vw;
+    height: 50vh;
+    margin-left: -30rem;
+  }
+}
+@media (max-width: 1440px) {
+  .cloud-img {
+    position: absolute;
+    z-index: -1;
+    height: 15rem;
+    margin-left: 52rem;
+    margin-top: -21rem;
+  }
+  .imm-pos13 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -39rem;
+    width: 35vw;
+    height: 60vh;
+    margin-left: -22rem;
+  }
+  .imm-pos16 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 6rem;
+    width: 40vw;
+    height: 65vh;
+    margin-left: 5rem;
+    border-radius: 0%;
+  }
+  .imm-pos15 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 5rem;
+    width: 40vw;
+    height: 65vh;
+    margin-left: -7rem;
+  }
+  .imm-pos {
+    position: absolute;
+    z-index: -1;
+    margin-left: -13rem;
+    margin-top: -10rem;
+    height: 14rem;
+  }
+  .imm-pos8 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -22rem;
+    height: 14rem;
+    margin-left: -15rem;
+  }
+  .imm-pos9 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -22rem;
+    height: 9rem;
+    margin-left: 5rem;
+  }
+  .imm-pos10 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -20rem;
+    height: 11rem;
+    margin-left: 17rem;
+  }
+  .margin-hero {
+    margin-top: 18rem;
+  }
+  .imm-pos1 {
+    position: absolute;
+    z-index: 1;
+    margin-left: 25rem;
+    margin-top: -11rem;
+    height: 12rem;
+  }
+  .imm-pos2 {
+    position: absolute;
+    z-index: 1;
+    margin-top: 11rem;
+    height: 18rem;
+    margin-left: -12rem;
+  }
+  .imm-pos3 {
+    position: absolute;
+    z-index: 1;
+    margin-top: 11rem;
+    height: 17rem;
+    margin-left: 14rem;
+  }
+  .imm-pos11 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -7rem;
+    height: 14rem;
+    margin-left: 4rem;
+  }
+  .imm-pos12 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -7rem;
+    height: 14rem;
+    margin-left: 35rem;
+  }
+  .main-jokefi {
+    padding: 80px 0px;
+    margin-bottom: 5rem;
+  }
+  .imm-pos6 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 2rem;
+    height: 14rem;
+    margin-left: -2rem;
+  }
+  .imm-pos7 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 2rem;
+    height: 14rem;
+    margin-left: 30rem;
+  }
+  .imm-pos5 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 25rem;
+    height: 12rem;
+    margin-left: 42rem;
+  }
+  .imm-pos4 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 9rem;
+    height: 17rem;
+    margin-left: 36rem;
+  }
+  .siz-joke {
+    height: 7rem;
+    margin-top: -6.5rem;
+  }
+  .siz-joke1 {
+    height: 13rem;
+    margin-left: 1.5rem;
+  }
+  .siz-joke2 {
+    height: 5.5rem;
+    margin-left: -1rem;
+    margin-top: -7rem;
+  }
+  .how-text-hero {
+    font-size: 1.1rem;
+    font-family: "Montserrat" !important;
+    font-style: normal !important;
+    text-align: center;
+  }
+  .input-hero {
+    width: 21rem;
+    background-color: black !important;
+    color: white !important;
+    font-family: "Audiowide" !important;
+    font-style: normal !important;
+    margin-top: -1rem;
+    margin-bottom: -2rem !important;
+  }
+  .text-heroeth {
+    font-family: "Audiowide" !important;
+    font-style: normal !important;
+    color: black;
+    font-size: 1rem;
+  }
+  .hero-btn {
+    background-color: black;
+    width: 10rem;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+    border: solid 1px black;
+    color: white;
+    font-family: "Montserrat" !important;
+    font-style: normal !important;
+    font-size: 1.1rem;
+  }
+  .hero-btn1 {
+    width: 10rem;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+    border: solid 1px black;
+    color: black;
+    font-family: "Montserrat" !important;
+    font-style: normal !important;
+    font-size: 1.1rem;
+    background-color: white;
+  }
+  .flex-btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 21rem;
+  }
+  .pro-pos {
+    position: absolute;
+    margin-top: -3.7rem;
+    margin-left: 1rem;
+    z-index: 1;
+    height: 6rem;
+  }
+  .main-coin-div1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 28rem;
+  }
+  .coin-div {
+    width: 8rem;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    border-radius: 0.5rem;
+    color: white;
+    font-family: "Montserrat" !important;
+    font-style: normal !important;
+    font-size: 1.2rem;
+  }
+  .usdt-hero-text {
+    font-family: "Audiowide" !important;
+    font-style: normal !important;
+    font-size: 1.5rem;
+    color: black;
+    text-align: center;
+  }
+  .progress-bar {
+    width: 18rem !important;
+  }
+  .ant-progress-inner {
+    background-color: black !important;
+    height: 1.8rem !important;
+    width: 34rem !important;
+    box-shadow: 0px 11px 19px 0px #00ff66 !important;
+  }
+  .ant-progress .ant-progress-bg {
+    height: 1.8rem !important;
+    box-shadow: 0px 11px 19px 0px #00ff66 !important;
+  }
+  .ant-progress-text {
+    display: none !important;
+  }
+  .div-timer {
+    background-color: white;
+    box-shadow: 0px 11px 19px 0px #00000073;
+    width: 42rem;
+    /* height: 31.938rem; */
+    border-radius: 2rem;
+    padding: 1rem;
+  }
+}
+
+@media (max-width: 1024px) {
+  .cloud-img {
+    position: absolute;
+    z-index: -1;
+    height: 15rem;
+    margin-left: 38rem;
+    margin-top: -19rem;
+  }
+  .imm-pos {
+    position: absolute;
+    z-index: -1;
+    margin-left: -9rem;
+    margin-top: -10rem;
+    height: 12rem;
+  }
+  .imm-pos1 {
+    position: absolute;
+    z-index: 1;
+    margin-left: 25rem;
+    margin-top: -11rem;
+    height: 12rem;
+  }
+  .imm-pos2 {
+    position: absolute;
+    z-index: 1;
+    margin-top: 11rem;
+    height: 14rem;
+    margin-left: -8rem;
+  }
+  .imm-pos3 {
+    position: absolute;
+    z-index: 1;
+    margin-top: 11rem;
+    height: 12rem;
+    margin-left: 18rem;
+  }
+  .imm-pos4 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 9rem;
+    height: 10rem;
+    margin-left: 37rem;
+  }
+  .imm-pos5 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 25rem;
+    height: 6rem;
+    margin-left: 42rem;
+  }
+  .imm-pos6 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 2rem;
+    height: 14rem;
+    margin-left: -2rem;
+  }
+  .imm-pos7 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 2rem;
+    height: 12rem;
+    margin-left: 30rem;
+  }
+  .imm-pos8 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -22rem;
+    height: 10rem;
+    margin-left: -6rem;
+  }
+  .imm-pos9 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -22rem;
+    height: 9rem;
+    margin-left: 8rem;
+  }
+  .imm-pos10 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -20rem;
+    height: 9rem;
+    margin-left: 21rem;
+  }
+  .imm-pos11 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -7rem;
+    height: 12rem;
+    margin-left: 4rem;
+  }
+  .imm-pos12 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -7rem;
+    height: 12rem;
+    margin-left: 30rem;
+  }
+}
+@media (max-width: 768px) {
+  .size-img-herrr {
+    margin-top: -1rem;
+    width: 20rem;
+  }
+  .pro-pos {
+    position: absolute;
+    margin-top: -4.5rem;
+    margin-left: -0.5rem;
+    z-index: 1;
+  }
+  .imm-pos {
+    position: absolute;
+    z-index: -1;
+    margin-left: -9rem;
+    margin-top: -10rem;
+    height: 12rem;
+  }
+  .imm-pos1 {
+    position: absolute;
+    z-index: 1;
+    margin-left: 25rem;
+    margin-top: -11rem;
+    height: 12rem;
+  }
+  .imm-pos2 {
+    position: absolute;
+    z-index: 1;
+    margin-top: 11rem;
+    height: 14rem;
+    margin-left: -8rem;
+  }
+  .imm-pos3 {
+    position: absolute;
+    z-index: 1;
+    margin-top: 11rem;
+    height: 12rem;
+    margin-left: 18rem;
+  }
+  .imm-pos4 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 9rem;
+    height: 10rem;
+    margin-left: 37rem;
+  }
+  .imm-pos5 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 25rem;
+    height: 6rem;
+    margin-left: 42rem;
+  }
+  .imm-pos6 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 2rem;
+    height: 14rem;
+    margin-left: -2rem;
+  }
+  .imm-pos7 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 2rem;
+    height: 12rem;
+    margin-left: 30rem;
+  }
+  .imm-pos8 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -22rem;
+    height: 10rem;
+    margin-left: -6rem;
+  }
+  .imm-pos9 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -22rem;
+    height: 9rem;
+    margin-left: 8rem;
+  }
+  .imm-pos10 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -20rem;
+    height: 9rem;
+    margin-left: 21rem;
+  }
+  .imm-pos11 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -7rem;
+    height: 12rem;
+    margin-left: 4rem;
+  }
+  .imm-pos12 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -7rem;
+    height: 12rem;
+    margin-left: 30rem;
+  }
+}
+@media (max-width: 500px) {
+  .size-img-herrr {
+    margin-top: -1rem;
+    height: 13rem;
+    width: 13rem;
+    position: absolute;
+    margin-top: -15rem;
+    margin-left: 7rem;
+  }
+  .cloud-img {
+    display: none;
+  }
+  .center-joke-col1 {
+    margin-top: -18rem;
+    margin-bottom: 10rem;
+  }
+  .imm-pos16 {
+    position: absolute;
+    z-index: -1;
+    margin-top: 6rem;
+    width: 104%;
+    height: 100vh;
+    margin-left: 0rem;
+    border-radius: 0%;
+  }
+  .imm-pos12 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -10rem;
+    height: 10rem;
+    margin-left: 15rem;
+    display: flex;
+  }
+  .main-jokefi {
+    padding: 20px 0px;
+  }
+  .imm-pos5 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -8rem;
+    height: 15rem;
+    margin-left: 29rem;
+    display: flex;
+  }
+  .imm-pos {
+    display: flex;
+    position: absolute;
+    z-index: -1;
+    margin-left: -7rem;
+    margin-top: 18rem;
+    height: 18rem;
+  }
+  .imm-pos1 {
+    display: flex;
+    position: absolute;
+    z-index: -1;
+    margin-left: 25rem;
+    margin-top: 85rem;
+    height: 12rem;
+  }
+  .imm-pos3 {
+    display: flex;
+    position: absolute;
+    z-index: -1;
+    margin-top: 68rem;
+    height: 12rem;
+    margin-left: 2rem;
+  }
+  .imm-pos11 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -14rem;
+    height: 11rem;
+    margin-left: 30rem;
+    display: flex;
+  }
+  .size-img-herrrmbl {
+    display: flex;
+    margin-top: -1rem;
+    height: 13rem;
+    width: 13rem;
+    position: absolute;
+    margin-top: -15rem;
+    margin-left: -20rem;
+  }
+  .div-flex-form-her0 {
+    display: flex;
+    justify-content: space-between;
+    width: 30rem;
+  }
+  .flex-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+  }
+  .pro-pos12 {
+    display: flex;
+    position: absolute;
+    margin-top: -4rem;
+    margin-left: 28.5rem;
+    z-index: 1;
+  }
+  .pro-pos {
+    display: none;
+  }
+  .div-timer {
+    background-color: white;
+    box-shadow: 0px 11px 19px 0px #00000073;
+    width: 45rem;
+    /* height: 31.938rem; */
+    border-radius: 2rem;
+    padding: 1.5rem;
+  }
+  .cloud-img {
+    position: absolute;
+    z-index: -1;
+    height: 15rem;
+    margin-left: 16rem;
+    margin-top: -18rem;
+  }
+  .input-hero {
+    width: 14rem;
+    background-color: black !important;
+    color: white !important;
+    font-family: "Audiowide" !important;
+    font-style: normal !important;
+    margin-top: -1rem;
+    margin-bottom: -2rem !important;
+  }
+  .mbl-mt {
+    margin-top: -3rem;
+  }
+  .hero-btn {
+    background-color: black;
+    width: 14rem;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+    border: solid 1px black;
+    color: white;
+    font-family: "Montserrat" !important;
+    font-style: normal !important;
+    font-size: 1.1rem;
+  }
+  .flex-form-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .imm-pos2 {
+    display: none;
+  }
+  .imm-pos4 {
+    display: none;
+  }
+  .imm-pos8 {
+    display: none;
+  }
+  .imm-pos9 {
+    display: none;
+  }
+  .imm-pos10 {
+    display: none;
+  }
+  .imm-pos6 {
+    display: none;
+  }
+  .imm-pos7 {
+    display: none;
+  }
+}
+@media (max-width: 390px) {
+  .cloud-img {
+    position: absolute;
+    z-index: -1;
+    height: 15rem;
+    margin-left: 14rem;
+    margin-top: -18rem;
+  }
+  .imm-pos12 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -10rem;
+    height: 10rem;
+    margin-left: 13rem;
+    display: flex;
+  }
+  .imm-pos5 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -6rem;
+    height: 9.5rem;
+    margin-left: 28rem;
+    display: flex;
+  }
+  .imm-pos {
+    display: flex;
+    position: absolute;
+    z-index: -1;
+    margin-left: -4rem;
+    margin-top: 18rem;
+    height: 15rem;
+  }
+  .imm-pos1 {
+    display: flex;
+    position: absolute;
+    z-index: -1;
+    margin-left: 25rem;
+    margin-top: 83rem;
+    height: 12rem;
+  }
+  .imm-pos3 {
+    display: flex;
+    position: absolute;
+    z-index: -1;
+    margin-top: 68rem;
+    height: 12rem;
+    margin-left: 2rem;
+  }
+  .imm-pos11 {
+    position: absolute;
+    z-index: -1;
+    margin-top: -14rem;
+    height: 9rem;
+    margin-left: 29rem;
+    display: flex;
+  }
+  .pro-pos12 {
+    display: flex;
+    position: absolute;
+    margin-top: -4rem;
+    margin-left: 26.5rem;
+    z-index: 1;
+  }
+  .div-timer {
+    background-color: white;
+    box-shadow: 0px 11px 19px 0px #00000073;
+    width: 40rem;
+    /* height: 31.938rem; */
+    border-radius: 2rem;
+    padding: 1rem;
+  }
+}
+@media (max-width: 320px) {
+  .cloud-img {
+    position: absolute;
+    z-index: -1;
+    height: 15rem;
+    margin-left: 10rem;
+    margin-top: -18rem;
+  }
+}

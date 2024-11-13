@@ -4,11 +4,14 @@ import React from 'react'
 import TeamSection from '@/app/components/team'
 import Tokenomics from '@/app/components/tokenomics'
 import About from '@/app/components/about'
-
+import HeroSection from '@/app/components/heroSection'
+import Header from '@/app/components/header'
+ 
 function LandingPage() {
   return (
     <div>
-      <h1 className='text-center text-black text-4xl'>Jokefi</h1>
+      <Header/>
+       <HeroSection/>
       <About/>
       <Tokenomics/>
       <TeamSection/>
