@@ -1,5 +1,5 @@
 import React from "react";
-import joke from "../../../public/images/joke.png";
+import joke from "../../../public/images/Joke.png";
 import joke1 from "../../../public/images/Rectangle 24.png";
 import joke2 from "../../../public/images/Rectangle 25.png";
 import joker from "../../../public/images/image 8.png";
