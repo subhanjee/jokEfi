@@ -1,12 +1,12 @@
 import React from 'react';
-
+import "./style.css"
 const ContactUs = () => {
   return (
     <div className=" flex flex-col justify-center items-center bg-img">
         <div className='layer'>
         <div className="flex justify-center items-center flex-grow">
         <div className="bg-white p-16 rounded-3xl shadow-2xl text-center md:w-[35.875rem] lg:w-[52.875rem]">
-          <h2 className="text-2xl font-bold ">Contact Us</h2>
+          <h2 className="text-2xl font-bold text-black ">Contact Us</h2>
           <p className="text-black py-5 text-center ">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do<br/> eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>

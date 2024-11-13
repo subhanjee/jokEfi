@@ -24,7 +24,7 @@ export default function TeamSection() {
   return (
     <div className="min-h-screen flex flex-col items-center py-12 bg-img-tes">
       {/* Section Title */}
-      <h2 className="text-3xl font-semibold mb-8">Team</h2>
+      <h2 className="text-3xl font-semibold mb-8 text-black">Team</h2>
 
       {/* Team Members Grid */}
       <div className="grid grid-cols-2 md:grid-cols-4">
@@ -32,7 +32,7 @@ export default function TeamSection() {
           <div key={index}>
             <div className="flex justify-center items-center flex-col">
               {item.imag}
-           <p className="-mt-10">{item.name}</p>   
+           <p className="-mt-10 text-black">{item.name}</p>   
             </div>
           </div>
         ))}
