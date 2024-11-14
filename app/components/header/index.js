@@ -51,7 +51,7 @@ const Header = () => {
 
       {/* Telegram Button for Desktop */}
       <div className="hidden md:flex">
-        <button className="flex gap-5 items-center px-6 lg:px-10 py-2 shadow-xl text-white bg-black rounded-md hover:bg-gray-800">
+        <button className="flex gap-5 items-center px-6 lg:px-10 py-2 shadow-xl text-white bg-black rounded-md hover:bg-gray-800 relative z-50">
           <Image src={telegram} alt="abc" width={15} height={15}/>
          <h4 className='font-bold text-md lg:text-2xl'>Telegram</h4> 
         </button>

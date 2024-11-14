@@ -20,7 +20,7 @@ import "./style.css"
 const HeroSection = () => {
   return (
     <div className="min-h-screen flex flex-col justify-center items-center   p-4 ">
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 z-50 relative">
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-10  ">
       <div className=" ">
 
           <Image src={joker8} alt="abc" className="back-joke5" />

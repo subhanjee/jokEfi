@@ -74,16 +74,14 @@
   position: absolute;
   margin-left: -2rem;
   margin-top: -42rem;
-  z-index: -1;
- }
+  }
  .back-joke7{
   /* width: 12rem; */
   /* height: 8rem; */
   position: absolute;
   margin-left: 25rem;
   margin-top: -30rem;
-  z-index: -1;
- }
+  }
 
  @media(max-width: 1440px){
     .back-joke{
