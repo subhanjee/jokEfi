@@ -122,7 +122,14 @@
    margin-left: 35rem;
    margin-top: -1rem;
 }
-@media (max-width: 1920px) {
+@media (max-width: 2560px) {
+   .bac-immm
+{
+   position: absolute;
+   margin-left: 70rem;
+   margin-top: -1rem;
+}
+   
    .back-joke {
      width: 18rem;
      height: 18rem;
@@ -237,6 +244,139 @@
     .back-jokes5 {
       position: absolute;
       margin-left: 55rem;
+      margin-top: 10rem;
+    }
+    .back-jokes6 {
+      position: absolute;
+      margin-left: 5rem;
+      margin-top: -15rem;
+    }
+    /* .jok-img{
+      width: 20rem;
+      height: 20rem;
+    } */
+ }
+@media (max-width: 1920px) {
+   .bac-immm
+{
+   position: absolute;
+   margin-left: 50rem;
+   margin-top: -1rem;
+}
+   .back-joke {
+     width: 18rem;
+     height: 18rem;
+     position: absolute;
+     margin-left: -20rem;
+     margin-top: -12rem;
+   }
+ 
+   .back-joke9 {
+     width: 16.188rem;
+     height: 16.188rem;
+     position: absolute;
+     margin-left: 1rem;
+     margin-top: 14rem;
+   }
+   .back-joke10 {
+     width: 16.188rem;
+     height: 16.188rem;
+     position: absolute;
+     margin-left: 25rem;
+     margin-top: 16rem;
+   }
+   .back-joke11 {
+     width: 16.188rem;
+     height: 16.188rem;
+     position: absolute;
+     margin-left: 50rem;
+     margin-top: 16rem;
+   }
+   .back-joke8 {
+      width: 18.188rem;
+      height: 18.188rem;
+      position: absolute;
+      margin-left: -25rem;
+      margin-top: 15rem;
+    }
+   .back-joke3 {
+     width: 13rem;
+     height: 10rem;
+     position: absolute;
+     margin-left: -8rem;
+     margin-top: -25rem;
+   }
+   .back-joke4 {
+     width: 22rem;
+     height: 20rem;
+     position: absolute;
+     margin-left: -32rem;
+     margin-top: -30rem;
+   }
+   .back-joke5 {
+     width: 14rem;
+     height: 14rem;
+     position: absolute;
+     margin-left: 7rem;
+     margin-top: -27rem;
+   }
+   .back-joke1 {
+     width: 20rem;
+     height: 20rem;
+     position: absolute;
+     margin-left: 38rem;
+     margin-top: -15rem;
+   }
+   .back-joke2 {
+     width: 14rem;
+     height: 14rem;
+     position: absolute;
+     margin-left: 40rem;
+     margin-top: 6rem;
+   }
+   .back-joke6 {
+     width: 22rem;
+     height: 20rem;
+     position: absolute;
+     margin-left: 12rem;
+     margin-top: -58rem;
+     /* z-index: -1; */
+   }
+   .back-joke7 {
+      width: 22rem;
+      height: 20rem;
+     position: absolute;
+     margin-left: 58rem;
+     margin-top: -44rem;
+     /* z-index: -1; */
+   }
+   .back-jokes {
+      position: absolute;
+      margin-left: -35rem;
+    }
+    .back-jokes1 {
+      position: absolute;
+      margin-left: -35rem;
+      margin-top: -30rem;
+    }
+    .back-jokes2 {
+      position: absolute;
+      margin-left: -25rem;
+      margin-top: -30rem;
+    }
+    .back-jokes3 {
+      position: absolute;
+      margin-left: 2rem;
+      margin-top: -30rem;
+    }
+    .back-jokes4 {
+      position: absolute;
+      margin-left: 52rem;
+      margin-top: -30rem;
+    }
+    .back-jokes5 {
+      position: absolute;
+      margin-left: 52rem;
       margin-top: 10rem;
     }
     .back-jokes6 {
@@ -373,6 +513,12 @@
   }
 }
 @media (max-width: 1440px) {
+   .bac-immm
+{
+   position: absolute;
+   margin-left: 35rem;
+   margin-top: -1rem;
+}
    .back-jokes {
       position: absolute;
       margin-left: -20rem;
@@ -622,6 +768,12 @@
   }
 }
 @media (max-width: 1024px) {
+   .bac-immm
+{
+   position: absolute;
+   margin-left: 20rem;
+   margin-top: -1rem;
+}
    .back-jokes {
       position: absolute;
       margin-left: -20rem;
@@ -744,6 +896,13 @@
   }
 }
 @media (max-width: 768px) {
+   .bac-immm
+   {
+      position: absolute;
+      margin-left: 20rem;
+      margin-top: -1rem;
+      display: none;
+   }
   .back-joke {
     width: 10rem;
     height: 10rem;
