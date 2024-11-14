@@ -116,6 +116,12 @@
   margin-left: 5rem;
   margin-top: -15rem;
 }
+.bac-immm
+{
+   position: absolute;
+   margin-left: 35rem;
+   margin-top: -1rem;
+}
 @media (max-width: 1920px) {
    .back-joke {
      width: 18rem;
@@ -243,7 +249,7 @@
       height: 20rem;
     } */
  }
-@media (max-width: 1440px) {
+@media (max-width: 1600px) {
    .back-jokes {
       position: absolute;
       margin-left: -20rem;
@@ -283,6 +289,255 @@
     height: 10rem;
     position: absolute;
     margin-left: -11rem;
+    margin-top: -2rem;
+  }
+
+  .back-joke9 {
+    width: 13.188rem;
+    height: 13.188rem;
+    position: absolute;
+    margin-left: 3rem;
+    margin-top: 13rem;
+  }
+  .back-joke10 {
+    width: 12.188rem;
+    height: 12.188rem;
+    position: absolute;
+    margin-left: 22rem;
+    margin-top: 14rem;
+  }
+  .back-joke11 {
+    width: 12.188rem;
+    height: 12.188rem;
+    position: absolute;
+    margin-left: 40rem;
+    margin-top: 14rem;
+  }
+  .back-joke3 {
+    width: 7rem;
+    height: 7rem;
+    position: absolute;
+    margin-left: -4rem;
+    margin-top: -10rem;
+  }
+  .back-joke4 {
+    width: 12rem;
+    height: 10rem;
+    position: absolute;
+    margin-left: -18rem;
+    margin-top: -12rem;
+  }
+  .back-joke5 {
+    width: 10rem;
+    height: 8rem;
+    position: absolute;
+    margin-left: 5rem;
+    margin-top: -10rem;
+  }
+  .back-joke1 {
+    width: 13rem;
+    height: 13rem;
+    position: absolute;
+    margin-left: 38rem;
+    margin-top: -6rem;
+  }
+  .back-joke2 {
+    width: 8rem;
+    height: 8rem;
+    position: absolute;
+    margin-left: 40rem;
+    margin-top: 6rem;
+  }
+  .back-joke8 {
+   width: 15.188rem;
+   height: 15.188rem;
+   position: absolute;
+   margin-left: -18rem;
+   margin-top: 15rem;
+ }
+  .back-joke6 {
+    width: 12rem;
+    height: 8rem;
+    position: absolute;
+    margin-left: -2rem;
+    margin-top: -32rem;
+    /* z-index: -1; */
+  }
+  .back-joke7 {
+    width: 12rem;
+    height: 8rem;
+    position: absolute;
+    margin-left: 36rem;
+    margin-top: -26rem;
+    /* z-index: -1; */
+  }
+}
+@media (max-width: 1440px) {
+   .back-jokes {
+      position: absolute;
+      margin-left: -20rem;
+      display: none;
+    }
+    .back-jokes1 {
+      position: absolute;
+      margin-left: -22rem;
+      margin-top: -20rem;
+    }
+    .back-jokes2 {
+      position: absolute;
+      margin-left: -22rem;
+      margin-top: -20rem;
+    }
+    .back-jokes3 {
+      position: absolute;
+      margin-left: 2rem;
+      margin-top: -20rem;
+    }
+    .back-jokes4 {
+      position: absolute;
+      margin-left: 20rem;
+      margin-top: -20rem;
+    }
+    .back-jokes5 {
+      position: absolute;
+      margin-left: 20rem;
+      margin-top: 10rem;
+    }
+    .back-jokes6 {
+      position: absolute;
+      margin-left: 10rem;
+      margin-top: -15rem;
+    }
+  .back-joke {
+    width: 10rem;
+    height: 10rem;
+    position: absolute;
+    margin-left: -15rem;
+    margin-top: -2rem;
+  }
+
+  .back-joke9 {
+    width: 13.188rem;
+    height: 13.188rem;
+    position: absolute;
+    margin-left: 3rem;
+    margin-top: 13rem;
+  }
+  .back-joke10 {
+    width: 12.188rem;
+    height: 12.188rem;
+    position: absolute;
+    margin-left: 22rem;
+    margin-top: 14rem;
+  }
+  .back-joke11 {
+    width: 12.188rem;
+    height: 12.188rem;
+    position: absolute;
+    margin-left: 40rem;
+    margin-top: 14rem;
+  }
+  .back-joke3 {
+    width: 7rem;
+    height: 7rem;
+    position: absolute;
+    margin-left: -4rem;
+    margin-top: -10rem;
+  }
+  .back-joke4 {
+    width: 12rem;
+    height: 10rem;
+    position: absolute;
+    margin-left: -18rem;
+    margin-top: -12rem;
+  }
+  .back-joke5 {
+    width: 10rem;
+    height: 8rem;
+    position: absolute;
+    margin-left: 5rem;
+    margin-top: -10rem;
+  }
+  .back-joke1 {
+    width: 13rem;
+    height: 13rem;
+    position: absolute;
+    margin-left: 38rem;
+    margin-top: -6rem;
+  }
+  .back-joke2 {
+    width: 8rem;
+    height: 8rem;
+    position: absolute;
+    margin-left: 40rem;
+    margin-top: 6rem;
+  }
+  .back-joke8 {
+   width: 15.188rem;
+   height: 15.188rem;
+   position: absolute;
+   margin-left: -18rem;
+   margin-top: 15rem;
+ }
+  .back-joke6 {
+    width: 12rem;
+    height: 8rem;
+    position: absolute;
+    margin-left: -2rem;
+    margin-top: -32rem;
+    /* z-index: -1; */
+  }
+  .back-joke7 {
+    width: 12rem;
+    /* height: 8rem; */
+    position: absolute;
+    margin-left: 36rem;
+    margin-top: -26rem;
+    /* z-index: -1; */
+  }
+}
+@media (max-width: 1300px) {
+   .back-jokes {
+      position: absolute;
+      margin-left: -20rem;
+      display: none;
+
+    }
+    .back-jokes1 {
+      position: absolute;
+      margin-left: -22rem;
+      margin-top: -20rem;
+    }
+    .back-jokes2 {
+      position: absolute;
+      margin-left: -22rem;
+      margin-top: -20rem;
+    }
+    .back-jokes3 {
+      position: absolute;
+      margin-left: 2rem;
+      margin-top: -20rem;
+    }
+    .back-jokes4 {
+      position: absolute;
+      margin-left: 20rem;
+      margin-top: -20rem;
+    }
+    .back-jokes5 {
+      position: absolute;
+      margin-left: 20rem;
+      margin-top: 10rem;
+    }
+    .back-jokes6 {
+      position: absolute;
+      margin-left: 10rem;
+      margin-top: -15rem;
+    }
+  .back-joke {
+    width: 10rem;
+    height: 10rem;
+    position: absolute;
+    margin-left: -15rem;
     margin-top: -2rem;
   }
 
@@ -472,7 +727,6 @@
     position: absolute;
     margin-left: -2rem;
     margin-top: -32rem;
-    z-index: -1;
   }
   .back-joke7 {
     width: 12rem;
@@ -480,7 +734,6 @@
     position: absolute;
     margin-left: 25rem;
     margin-top: -26rem;
-    z-index: -1;
   }
   .back-joke8 {
     width: 8.188rem;
