@@ -17,15 +17,15 @@ module.exports = {
         marqueebtn: 'marquee 5s linear infinite',
   
       },
+      
       keyframes: {
-        marquee: {
-          '0%': { transform: 'translateX(0%)' },
+        scroll: {
+          '0%': { transform: 'translateX(0)' },
           '100%': { transform: 'translateX(-100%)' },
         },
-        marquee2: {
-          '0%': { transform: 'translateX(-100%)' },
-          '100%': { transform: 'translateX(0%)' },
-        },
+      },
+      animation: {
+        scroll: 'scroll 20s linear infinite',
       },
     },
   },
