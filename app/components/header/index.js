@@ -11,49 +11,49 @@ const Header = () => {
   };
 
   return (
-    <nav className="flex items-center justify-between px-6 py-4 bg-white shadow-2xl">
+    <nav className="flex items-center justify-between px-6 py-4 bg-white shadow-2xl relative z-50">
       <div className="text-lg font-semibold text-black"> </div>
 
       {/* Desktop Menu */}
       <div className="hidden md:flex space-x-8">
         <Link href="/" className="text-black  hover:text-gray-700">
-          <h4 className="font-bold">Home</h4>
+          <h4 className="font-bold text-md lg:text-2xl">Home</h4>
         </Link>
         <span className="text-black font-semibold">|</span>
         <Link
           href="#about"
           className="text-black font-semibold hover:text-gray-700"
         >
-          <h4 className="font-bold">About</h4>
+          <h4 className="font-bold text-md lg:text-2xl">About</h4>
         </Link>
         <span className="text-black font-semibold">|</span>
         <Link
           href="#roadmap"
           className="text-black font-semibold hover:text-gray-700"
         >
-          <h4 className="font-bold">Roadmap</h4>
+          <h4 className="font-bold text-md lg:text-2xl">Roadmap</h4>
         </Link>
         <span className="text-black font-semibold">|</span>
         <Link
           href="#tokenomics"
           className="text-black font-semibold hover:text-gray-700"
         >
-          <h4 className="font-bold">Tokenomics</h4>
+          <h4 className="font-bold text-md lg:text-2xl">Tokenomics</h4>
         </Link>
         <span className="text-black font-semibold">|</span>
         <Link
           href="#contact"
           className="text-black font-semibold hover:text-gray-700"
         >
-          <h4 className="font-bold">Contact</h4>
+          <h4 className="font-bold text-md lg:text-2xl">Contact</h4>
         </Link>
       </div>
 
       {/* Telegram Button for Desktop */}
       <div className="hidden md:flex">
-        <button className="flex gap-5 items-center px-10 py-2 shadow-xl text-white bg-black rounded-md hover:bg-gray-800">
+        <button className="flex gap-5 items-center px-6 lg:px-10 py-2 shadow-xl text-white bg-black rounded-md hover:bg-gray-800">
           <Image src={telegram} alt="abc" width={15} height={15}/>
-         <h4 className='font-bold'>Telegram</h4> 
+         <h4 className='font-bold text-md lg:text-2xl'>Telegram</h4> 
         </button>
       </div>
 
