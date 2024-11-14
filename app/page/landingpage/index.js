@@ -11,7 +11,7 @@ import Animation from '@/app/components/animation'
 function LandingPage() {
   return (
     <div>
-      <Animation/>
+      <Animation />
       <Header/>
        <HeroSection/>
       <About/>

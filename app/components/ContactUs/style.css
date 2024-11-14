@@ -1,19 +1,19 @@
 .bg-img {
-    background-image: url("../../../public/images/image 13.png");
+    background-image: url("../../../public/images/Mask group (1).png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
     height: 100vh;
   }
-  .layer {
+  /* .layer {
     background-color: rgba(0, 0, 0, 0.2);
     width: 100%;
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-  }
+  } */
   .bg-img-tes {
     background-image: url("../../../public/images/Ellipse 15.png");
     background-position: center;
