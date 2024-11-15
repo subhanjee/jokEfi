@@ -1049,15 +1049,19 @@
   .mbl-view{
     width: 15rem;
     height: 5rem;
-     
+     z-index: 1;
    }
   .mbl-view1{
     width: 10rem;
     height: 4rem;
+    z-index: 1;
+
   }
   .mbl-view2{
     width: 8rem;
     height: 8rem;
+    z-index: 1;
+
   }
   .center-mbl{
     display: flex;
