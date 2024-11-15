@@ -43,21 +43,23 @@ const HeroSection = () => {
           <Image src={joker13} alt="abc" className="back-joke10" />
           <Image src={joker14} alt="abc" className="back-joke11" />
           <Image src={joker21} alt="abc" className="back-jokes6" />
+          <div className="center-mbl">
           <Image
             src={joke}
             alt="abc"
             width={350}
             height={350}
-            className="relative z-50 -mt-12"
+            className="relative z-50 -mt-12 mbl-view"
           />
+          </div>
           <div className="flex gap-1">
             <Image
-              className="mt-4 w-32 h-20 relative z-50"
+              className="mt-4 w-32 h-20 relative z-50 mbl-view1"
               src={joke2}
               alt="abc"
             />
             <Image
-              className="mt-4 w-58 h-20 relative z-50"
+              className="mt-4 w-58 h-20 relative z-50  mbl-view1"
               src={joke1}
               alt="abc"
             />
@@ -69,7 +71,7 @@ const HeroSection = () => {
             alt="abc"
             width={250}
             height={250}
-            className="-mt-5 lg:-mt-28 relative z-50"
+            className="-mt-5 lg:-mt-28 relative z-50 mbl-view2"
           />
           <Image src={joker4} alt="abc" className="back-joke1" />
           <Image src={joker5} alt="abc" className="back-joke2" />

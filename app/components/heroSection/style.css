@@ -1046,6 +1046,24 @@
   }
 }
 @media (max-width: 600px) {
+  .mbl-view{
+    width: 15rem;
+    height: 5rem;
+   }
+  .mbl-view1{
+    width: 10rem;
+    height: 4rem;
+  }
+  .mbl-view2{
+    width: 8rem;
+    height: 8rem;
+  }
+  .center-mbl{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -8rem;
+  }
   .back-joke {
     width: 10rem;
     height: 10rem;
@@ -1059,21 +1077,21 @@
     height: 6.188rem;
     position: absolute;
     margin-left: -1rem;
-    margin-top: 27rem;
+    margin-top: 10rem;
   }
   .back-joke9 {
     width: 6.188rem;
     height: 6.188rem;
     position: absolute;
     margin-left: 7rem;
-    margin-top: 27rem;
+    margin-top: 10rem;
   }
   .back-joke10 {
     width: 6.188rem;
     height: 6.188rem;
     position: absolute;
     margin-left: 15rem;
-    margin-top: 27rem;
+    margin-top: 10rem;
     /* display: none; */
   }
   .back-joke11 {
