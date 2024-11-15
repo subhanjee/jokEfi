@@ -25,7 +25,7 @@ import joker21 from "../../../public/images/Ellipse 1.png";
 
 import Image from "next/image";
 import "./style.css";
-const HeroSection = () => {
+const HeroSection = () => { 
   return (
     <div className="min-h-screen flex flex-col justify-center items-center   p-4 ">
       

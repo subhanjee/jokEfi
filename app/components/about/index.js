@@ -8,9 +8,7 @@ import random1 from "../../../public/images/Vector (22).png";
 import random2 from "../../../public/images/image 15 (2).png";
 import random3 from "../../../public/images/image 15 (3).png";
 import random4 from "../../../public/images/image 14.png";
-import random5 from "../../../public/images/Vector (28).png";
-import random6 from "../../../public/images/image 10.png";
-import Image from "next/image";
+  import Image from "next/image";
 function About() {
   return (
     <div className="main-about">
