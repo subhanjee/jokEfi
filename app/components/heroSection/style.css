@@ -263,6 +263,8 @@
    position: absolute;
    margin-left: 50rem;
    margin-top: -1rem;
+   width: 15rem;
+   height: 12rem;
 }
    .back-joke {
      width: 18rem;
@@ -430,50 +432,50 @@
     height: 12rem;
     position: absolute;
     margin-left: -12rem;
-    margin-top: -6rem;
+    margin-top: -10rem;
   }
 
   .back-joke9 {
     width: 13.188rem;
-    height: 13.188rem;
+    height: 10.188rem;
     position: absolute;
     margin-left: 3rem;
-    margin-top: 13rem;
+    margin-top: 10rem;
   }
   .back-joke10 {
     width: 12.188rem;
-    height: 12.188rem;
+    height: 10.188rem;
     position: absolute;
     margin-left: 22rem;
-    margin-top: 14rem;
+    margin-top: 10rem;
   }
   .back-joke11 {
     width: 12.188rem;
-    height: 12.188rem;
+    height: 10.188rem;
     position: absolute;
     margin-left: 40rem;
-    margin-top: 14rem;
+    margin-top: 10rem;
   }
   .back-joke3 {
     width: 7rem;
     height: 7rem;
     position: absolute;
-    margin-left: -4rem;
-    margin-top: -16rem;
+    margin-left: -3rem;
+    margin-top: -18rem;
   }
   .back-joke4 {
     width: 14rem;
     height: 10rem;
     position: absolute;
     margin-left: -18rem;
-    margin-top: -18rem;
+    margin-top: -20rem;
   }
   .back-joke5 {
     width: 14rem;
     height: 8rem;
     position: absolute;
     margin-left: 5rem;
-    margin-top: -17rem;
+    margin-top: -19rem;
   }
   .back-joke1 {
     width: 15rem;
@@ -490,18 +492,18 @@
     margin-top: 6rem;
   }
   .back-joke8 {
-   width: 15.188rem;
-   height: 15.188rem;
+   width: 13.188rem;
+   height: 11.188rem;
    position: absolute;
    margin-left: -18rem;
-   margin-top: 15rem;
+   margin-top: 10rem;
  }
   .back-joke6 {
     width: 15rem;
     height: 10rem;
     position: absolute;
     margin-left: -2rem;
-    margin-top: -42rem;
+    margin-top: -40rem;
     /* z-index: -1; */
   }
   .back-joke7 {
@@ -515,7 +517,7 @@
   .bac-immm
   {
      position: absolute;
-     margin-left: 35rem;
+     margin-left: 40rem;
      margin-top: -1rem;
   }
 }

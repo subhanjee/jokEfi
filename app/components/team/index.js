@@ -22,21 +22,9 @@ const teamMembers = [
 
 export default function TeamSection() {
   return (
-    <div className="min-h-screen flex  flex-col items-center  py-12 bg-img-tes">
+    <div className="min-h-screen flex  flex-col items-center  -mt-16 bg-img-tes">
       {/* Section Title */}
       <h2 className="text-3xl font-semibold mb-8 text-black">Team</h2>
-
-      {/* Team Members Grid */}
-      {/* <div className="grid grid-cols-2 md:grid-cols-4">
-        {teamMembers.map((item, index) => (
-          <div key={index}>
-            <div className="flex justify-center items-center flex-col">
-              {item.imag}
-              <p className="-mt-10 text-black">{item.name}</p>
-            </div>
-          </div>
-        ))}
-      </div> */}
       <div className="flex flex-col justify-center items-center md:flex md:flex-row md:justify-between md:items-center gap-5 md:gap-72">
         <div>
           <Image src={team1} alt="abc" />

@@ -5,10 +5,10 @@ import Image from "next/image";
 
 function Animation() {
   return (
-    <div className=" py-5 z-50">
+    <div className=" py-1 z-50">
             <Image src={cloud} alt="abc" className="bac-immm" />
 
-    <div className="overflow-hidden bg-black text-white text-center p-4 shadow-2xl whitespace-nowrap relative z-50">
+    <div className="overflow-hidden bg-black text-white text-center p-2 shadow-2xl whitespace-nowrap relative z-50">
       <div className="flex animate-scroll space-x-4 text-sm">
         <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit |</h3>
         <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit |</h3>

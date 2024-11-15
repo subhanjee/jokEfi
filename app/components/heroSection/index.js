@@ -48,7 +48,7 @@ const HeroSection = () => {
             alt="abc"
             width={350}
             height={350}
-            className="relative z-50"
+            className="relative z-50 -mt-12"
           />
           <div className="flex gap-1">
             <Image
@@ -69,7 +69,7 @@ const HeroSection = () => {
             alt="abc"
             width={250}
             height={250}
-            className="-mt-5 lg:-mt-10 relative z-50"
+            className="-mt-5 lg:-mt-28 relative z-50"
           />
           <Image src={joker4} alt="abc" className="back-joke1" />
           <Image src={joker5} alt="abc" className="back-joke2" />

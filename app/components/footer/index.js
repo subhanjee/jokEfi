@@ -5,7 +5,7 @@ import linkedin from "../../../public/images/Vector (1).png";
 import Fb from "../../../public/images/Subtract.png";
 function Footer() {
   return (
-    <div className="bg-black p-8 flex flex-col justify-center items-center md:flex md:flex-row md:justify-between md:items-center">
+    <div className="bg-black p-2 flex flex-col justify-center items-center md:flex md:flex-row md:justify-between md:items-center">
       <div className="flex justify-center items-center gap-5 ">
         <a href="https://twitter.com/?lang=en" target="_blank">
           <Image src={Twitter} alt="abc" width={25} height={25} />

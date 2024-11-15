@@ -29,8 +29,8 @@ function About() {
               <Image src={qout1} alt="" className="" />
             </div>
           </div>
-          <div className="flex justify-center items-center relative z-50">
-          <div className="p-[2px] rounded-3xl bg-gradient-to-b from-orange-300 to-purple-300">
+          <div className="flex justify-center items-center relative z-50  py-5 md:py-16">
+          <div className="p-[2px] rounded-3xl bg-gradient-to-b from-orange-300 to-purple-300 ">
           <div className="py-5 px-5 md:py-8 md:px-12 bg-white rounded-3xl ">
               <h1 className="text-center font-medium text-4xl text-black">Roadmap</h1>
               <div className="div-pos-road text-black">
