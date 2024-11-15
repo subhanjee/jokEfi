@@ -9,7 +9,7 @@ import Image from "next/image";
 
 export default function Tokenomics() {
   return (
-    <div className="min-h-screen flex justify-center items-center relative z-50 py-28 md:py-60 "  >
+    <div className="min-h-screen flex justify-center items-center relative z-50 py-40 md:py-60 px-2"  >
        <div className="p-[2px] rounded-3xl bg-gradient-to-b from-orange-300 to-purple-300">
         <div className="py-5 px-5 md:py-8 md:px-12 bg-white rounded-3xl ">
           <div>
