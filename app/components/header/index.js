@@ -15,7 +15,7 @@ const Header = () => {
       <div className="text-lg font-semibold text-black"> </div>
       {/* Desktop Menu */}
       <div className="hidden md:flex space-x-8">
-        <Link href="/" className="text-black  hover:text-gray-700">
+        <Link href="#hero" className="text-black  hover:text-gray-700">
           <h4 className="font-bold text-md lg:text-2xl xl:text-3xl">Home</h4>
         </Link>
         <span className="text-black font-semibold">|</span>

@@ -27,7 +27,7 @@ import Image from "next/image";
 import "./style.css";
 const HeroSection = () => { 
   return (
-    <div className="min-h-screen flex flex-col justify-center items-center   p-4 ">
+    <div className="min-h-screen flex flex-col justify-center items-center   p-4 "  >
       
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-10  ">
         <div className=" ">

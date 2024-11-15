@@ -11,9 +11,9 @@ import random4 from "../../../public/images/image 14.png";
   import Image from "next/image";
 function About() {
   return (
-    <div className="main-about">
+    <div className="main-about"  >
       <div>
-        <h3 className="text-center font-medium text-2xl text-black">About</h3>
+         <h3 className="text-center font-medium text-2xl text-black">About</h3>
         <h2 className="text-center font-semibold text-4xl text-black ">We Meme Business!</h2>
         <div className="bg-about">
           <div className="grid grid-cols-1  md:grid-cols-3">

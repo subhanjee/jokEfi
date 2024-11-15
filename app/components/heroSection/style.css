@@ -393,11 +393,11 @@
 @media (max-width: 1600px) {
    .back-jokes {
       position: absolute;
-      margin-left: -20rem;
+      margin-left: -24rem;
     }
     .back-jokes1 {
       position: absolute;
-      margin-left: -22rem;
+      margin-left: -24rem;
       margin-top: -20rem;
     }
     .back-jokes2 {
@@ -412,12 +412,12 @@
     }
     .back-jokes4 {
       position: absolute;
-      margin-left: 20rem;
+      margin-left: 30rem;
       margin-top: -20rem;
     }
     .back-jokes5 {
       position: absolute;
-      margin-left: 20rem;
+      margin-left: 26rem;
       margin-top: 10rem;
     }
     .back-jokes6 {
@@ -511,6 +511,12 @@
     margin-left: 30rem;
     margin-top: -35rem;
     /* z-index: -1; */
+  }
+  .bac-immm
+  {
+     position: absolute;
+     margin-left: 35rem;
+     margin-top: -1rem;
   }
 }
 @media (max-width: 1440px) {
