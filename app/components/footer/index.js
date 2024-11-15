@@ -5,7 +5,7 @@ import linkedin from "../../../public/images/Vector (1).png";
 import Fb from "../../../public/images/Subtract.png";
 function Footer() {
   return (
-    <div className="bg-black px-16 md:px-24 py-2   flex flex-col justify-center items-center md:flex md:flex-row md:justify-between md:items-center">
+    <div className="bg-black px-4 xl:px-24 py-2   flex flex-col justify-center items-center md:flex md:flex-row md:justify-between md:items-center">
       <div className="flex justify-center items-center gap-5 ">
         <a href="https://twitter.com/?lang=en" target="_blank">
           <Image src={Twitter} alt="abc" width={25} height={25} />
@@ -18,9 +18,11 @@ function Footer() {
           <Image src={Fb} alt="abc" width={25} height={25} />
         </a>
       </div>
+      <div>
+        <h2 className="text-xs">CA: 0x98789476572399002002766537892902876543789487</h2></div>
       <div className="text-white">
         {" "}
-        <h2>From The Makers Of Universe</h2>
+        <h2 className="text-xs lg:text-sm">From The Makers Of Universe</h2>
         <p className="text-[#8F8F8F] text-sm text-right">
           All Rights Reserved Joke 2024
         </p>

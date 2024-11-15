@@ -3,7 +3,7 @@ import { useState } from "react";
 import Link from "next/link";
 import telegram from "../../../public/images/telegram.png";
 import ava from "../../../public/images/Dexscreener (1).png";
-import x from "../../../public/images/X.png";
+import x from "../../../public/images/xxx.png";
 import TG from "../../../public/images/TG.png";
 import Image from "next/image";
 const Header = () => {
@@ -43,16 +43,16 @@ const Header = () => {
           <h4 className="font-bold text-md lg:text-1xl ">Tokenomics</h4>
         </Link>
         <span className="text-black font-semibold">|</span>
-        <div className="flex gap-4">
-          <a href="https://dexscreener.com/" target="_blank">
-            <Image src={ava} alt="abc" className="w-6 h-6" />
+        <div className="flex items-center gap-4 -mt-1">
+          <a href="https://dexscreener.com/" target="_blank" className="bg-gray-300 rounded-full p-1 flex justify-center items-center w-8 h-8">
+            <Image src={ava} alt="abc" className="" />
           </a>
-          <a href="https://twitter.com/?lang=en" target="_blank">
+          <a href="https://twitter.com/?lang=en" target="_blank" className="bg-gray-300 rounded-full p-1 flex justify-center items-center w-8 h-8">
             {" "}
-            <Image src={x} alt="abc" className="w-5 h-5" />
+            <Image src={x} alt="abc" className="h-4 w-4" />
           </a>
-          <a href="https://telegram.org/" target="_blank">
-            <Image src={TG} alt="abc" className="w-5 h-5" />
+          <a href="https://telegram.org/" target="_blank" className="bg-gray-300 rounded-full p-1 flex justify-center items-center w-8 h-8">
+            <Image src={TG} alt="abc" className="w-4 h-4" />
           </a>
         </div>
       </div>
