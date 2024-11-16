@@ -18,8 +18,8 @@ function Footer() {
           <Image src={Fb} alt="abc" width={25} height={25} />
         </a>
       </div>
-      <div>
-        <h2 className="text-xs">CA: 0x98789476572399002002766537892902876543789487</h2></div>
+      <div className="text-white">
+        <h2 className="text-xs text-white">CA: 0x98789476572399002002766537892902876543789487</h2></div>
       <div className="text-white">
         {" "}
         <h2 className="text-xs lg:text-sm">From The Makers Of Universe</h2>
